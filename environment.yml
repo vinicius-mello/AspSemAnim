@@ -1,0 +1,16 @@
+dependencies:
+  - libcairo2-dev
+  - ffmpeg
+  - texlive
+  - texlive-latex-extra
+  - texlive-fonts-extra
+  - texlive-latex-recommended
+  - texlive-science
+  - tipa
+  - libpango1.0-dev
+  - sox
+  - libsox-fmt-all
+  - pip:
+    - manim
+    - IPython==8.21.0
+    - manim-voiceover
