@@ -1,3 +1,6 @@
+channels:
+  - conda-forge
+  - defaults
 dependencies:
   - libcairo2-dev
   - ffmpeg
